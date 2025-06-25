@@ -28,5 +28,15 @@
     "projectPreview": "https://cool-login-ui.vercel.app/",
     "projectSource": "https://github.com/saad-shaikh-256/Cool-Login-Ui",
     "projectIcon": "hgi hgi-stroke hgi-github"
+  },
+  {
+    "projectId": "04",
+    "projectTitle": "Performance Report Generator",
+    "projectCategory": ["C", "CPP"],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/reportGenerator.png",
+    "projectDescription": "This C program generates a Student Performance Report based on their marks in five subjects. It collects the roll number, student name, and marks, then calculates the total marks, average marks, and percentage. The program also determines the student's pass/fail status and assigns a grade if applicable.",
+    "projectPreview": "https://github.com/saad-shaikh-256/Performance-Report-Generator",
+    "projectSource": "https://github.com/saad-shaikh-256/Performance-Report-Generator",
+    "projectIcon": "hgi hgi-stroke hgi-github"
   }
 ]
