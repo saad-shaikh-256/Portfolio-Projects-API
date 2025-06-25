@@ -9,5 +9,14 @@
     "projectSource": "https://www.figma.com/community/file/1285886007707459867/navbar",
     "projectIcon": "hgi hgi-stroke hgi-figma"
   },
-  {}
+  {
+    "projectId": "02",
+    "projectTitle": "Simple Login",
+    "projectCategory": ["HTML", "Tailwind", "Javascript", "GSAP", "Ui/Ux"],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/simpleLogin.png",
+    "projectDescription": "Simple Login is a modern, responsive login page UI built with HTML, CSS, Tailwind CSS, JavaScript, and GSAP. It features a clean, mobile-first design and is ideal as a starting point for authentication pages in your web apps.",
+    "projectPreview": "https://simple-login-ui.vercel.app/",
+    "projectSource": "https://github.com/saad-shaikh-256/Simple-Login-Ui",
+    "projectIcon": "hgi hgi-stroke hgi-github"
+  }
 ]
