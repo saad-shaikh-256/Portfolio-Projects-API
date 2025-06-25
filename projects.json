@@ -1,0 +1,13 @@
+[
+  {
+    "projectId": "01",
+    "projectTitle": "Mobile Navbar",
+    "projectCategory": ["Ui/Ux"],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/navbarCover.png",
+    "projectDescription": "A modern mobile navigation bar designed in Figma, offering both light and dark modes. Features intuitive icons, text labels, and active state indication for a seamless user experience.",
+    "projectPreview": "https://www.figma.com/community/file/1285886007707459867/navbar",
+    "projectSource": "https://www.figma.com/community/file/1285886007707459867/navbar",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {}
+]
