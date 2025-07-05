@@ -168,7 +168,8 @@
     "projectPreview": "https://www.figma.com/community/file/1371500161815273112/expense-tracker",
     "projectSource": "https://www.figma.com/community/file/1371500161815273112/expense-tracker",
     "projectIcon": "hgi hgi-stroke hgi-figma"
-  }, {
+  },
+  {
     "projectId": "15",
     "projectTitle": "Job Finder",
     "projectCategory": ["Ui/Ux", "Design"],
@@ -177,6 +178,90 @@
     "projectPreview": "https://www.figma.com/community/file/1522522593587899021/job-finder",
     "projectSource": "https://www.figma.com/community/file/1522522593587899021/job-finder",
     "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectId": "16",
+    "projectTitle": "Search Engine",
+    "projectCategory": [
+      "HTML",
+      "Tailwind",
+      "Javascript",
+      "Ui/Ux",
+      "Design",
+      "Development"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/searchEngine.png",
+    "projectDescription": "Search Engine UI is a modern, responsive web homepage that combines a search bar, live weather, clock, motivational quotes, and a bookmark manager. Built with HTML5, Tailwind CSS, and vanilla JavaScript, it offers a clean, interactive experience inspired by productivity dashboards and browser start pages.",
+    "projectPreview": "https://search-engine-ui.netlify.app/",
+    "projectSource": "https://github.com/saad-shaikh-256/Search-Engine-Ui",
+    "projectIcon": "hgi hgi-stroke hgi-github"
+  },
+  {
+    "projectId": "17",
+    "projectTitle": "Professional Login",
+    "projectCategory": ["Ui/Ux", "Design"],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/professionalLogin.png",
+    "projectDescription": "This project features a clean, responsive UI/UX design for a professional login page, compatible with desktop and mobile. It includes essential input fields, a Sign In button, and options for Google login or new account creation. The modern aesthetic and business-oriented visual element provide a sleek, functional user experience.",
+    "projectPreview": "https://www.figma.com/community/file/1363047801969002728/professional-login-page",
+    "projectSource": "https://www.figma.com/community/file/1363047801969002728/professional-login-page",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectId": "18",
+    "projectTitle": "Calculator App",
+    "projectCategory": ["Ui/Ux", "Design"],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/calculatorApp.png",
+    "projectDescription": "This project showcases a clean, functional mobile calculator UI, offering both light and dark mode themes. It features standard numerical and operational buttons, a clear display for input and results, and a history/memory function. The design prioritizes ease of use and visual comfort for basic and complex calculations",
+    "projectPreview": "https://www.figma.com/community/file/1371040846150181225/calculator-app",
+    "projectSource": "https://www.figma.com/community/file/1371040846150181225/calculator-app",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectId": "19",
+    "projectTitle": "Weather App",
+    "projectCategory": ["Ui/Ux", "Design"],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/weatherApp.png",
+    "projectDescription": "This project presents a sleek mobile UI for a weather application, featuring both light and dark modes. It displays current weather conditions (temperature, sky, wind, humidity, rain probability), along with a detailed hourly forecast and a 3-day outlook. The design emphasizes clear data visualization and an intuitive user experience for quick weather checks.",
+    "projectPreview": "https://www.figma.com/community/file/1289964365602571637/weather-app",
+    "projectSource": "https://www.figma.com/community/file/1289964365602571637/weather-app",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectId": "20",
+    "projectTitle": "Login Page",
+    "projectCategory": ["Ui/Ux", "Design"],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/loginPage.png",
+    "projectDescription": "This project showcases a clean, minimalist, and responsive UI/UX design for a user login page, optimized for both desktop and mobile. It features essential input fields for email and password, a Forgot Password? link, and a prominent Sign In button. Google login integration and a Sign up option are also included. The design uses a subtle purple accent and ample white space to create a modern and inviting user experience.",
+    "projectPreview": "https://www.figma.com/community/file/1285910043984717156/login-page",
+    "projectSource": "https://www.figma.com/community/file/1285910043984717156/login-page",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectId": "21",
+    "projectTitle": "Shoes Ecom",
+    "projectCategory": ["Flutter", "SQLite", "Ui/Ux", "Design", "Development"],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/shoesEcom.png",
+    "projectDescription": "Shoes Ecom is a complete mobile e-commerce application for shoes, built using Flutter and SQLite. It features a fully functional product catalog, cart system, order history, and checkout flow—all managed locally. Shoes Ecom is designed with a clean UI, smooth navigation, and essential features to simulate a real shopping experience.",
+    "projectPreview": "https://github.com/saad-shaikh-256/Shoes-eCom-Qadam",
+    "projectSource": "https://github.com/saad-shaikh-256/Shoes-eCom-Qadam",
+    "projectIcon": "hgi hgi-stroke hgi-github"
+  },
+  {
+    "projectId": "21",
+    "projectTitle": "eCom App",
+    "projectCategory": [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Ui/Ux",
+      "Design",
+      "Development"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/ecomApp.png",
+    "projectDescription": "eCom App is a modern and responsive e-commerce web application built using HTML, CSS, and JavaScript. This project converts a Figma design into a fully functional front-end interface.",
+    "projectPreview": "https://ecom-web-app-404.vercel.app/",
+    "projectSource": "https://github.com/saad-shaikh-256/eCom-Web-App",
+    "projectIcon": "hgi hgi-stroke hgi-github"
   },
   {}
 ]
