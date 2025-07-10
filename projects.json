@@ -1,0 +1,424 @@
+[
+  {
+    "projectId": "01",
+    "projectTitle": "Mobile Navbar",
+    "projectCategory": ["Ui/Ux", "Design"],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/navbarCover.png",
+    "projectDescription": "A modern mobile navigation bar designed in Figma, offering both light and dark modes. Features intuitive icons, text labels, and active state indication for a seamless user experience.",
+    "projectPreview": "https://www.figma.com/community/file/1285886007707459867/navbar",
+    "projectSource": "https://www.figma.com/community/file/1285886007707459867/navbar",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectId": "02",
+    "projectTitle": "Simple Login",
+    "projectCategory": [
+      "HTML",
+      "Tailwind",
+      "Javascript",
+      "GSAP",
+      "Ui/Ux",
+      "Design",
+      "Development"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/simpleLogin.png",
+    "projectDescription": "Simple Login is a modern, responsive login page UI built with HTML, CSS, Tailwind CSS, JavaScript, and GSAP. It features a clean, mobile-first design and is ideal as a starting point for authentication pages in your web apps.",
+    "projectPreview": "https://simple-login-ui.vercel.app/",
+    "projectSource": "https://github.com/saad-shaikh-256/Simple-Login-Ui",
+    "projectIcon": "hgi hgi-stroke hgi-github"
+  },
+  {
+    "projectId": "03",
+    "projectTitle": "Cool Login",
+    "projectCategory": [
+      "HTML",
+      "Tailwind",
+      "Javascript",
+      "GSAP",
+      "Ui/Ux",
+      "Design",
+      "Development"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/coolLogin.png",
+    "projectDescription": "Cool Login Ui is a modern, responsive authentication UI built with HTML, CSS, JavaScript, and GSAP. It features a clean, mobile-first design and is ideal as a starting point for login, registration, and welcome pages in your web apps.",
+    "projectPreview": "https://cool-login-ui.vercel.app/",
+    "projectSource": "https://github.com/saad-shaikh-256/Cool-Login-Ui",
+    "projectIcon": "hgi hgi-stroke hgi-github"
+  },
+  {
+    "projectId": "04",
+    "projectTitle": "Performance Report Generator",
+    "projectCategory": ["C", "CPP", "Development"],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/reportGenerator.png",
+    "projectDescription": "This C program generates a Student Performance Report based on their marks in five subjects. It collects the roll number, student name, and marks, then calculates the total marks, average marks, and percentage. The program also determines the student's pass/fail status and assigns a grade if applicable.",
+    "projectPreview": "https://github.com/saad-shaikh-256/Performance-Report-Generator",
+    "projectSource": "https://github.com/saad-shaikh-256/Performance-Report-Generator",
+    "projectIcon": "hgi hgi-stroke hgi-github"
+  },
+  {
+    "projectId": "05",
+    "projectTitle": "Audio Player",
+    "projectCategory": ["Ui/Ux", "Design"],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/audioPlayer.png",
+    "projectDescription": "This project features a clean, intuitive mobile UI for a Quranic audio player. It offers essential playback controls and seamless integration of Arabic text, allowing users to follow recitations visually. Designed with a calming green and white palette, it provides a serene user experience.",
+    "projectPreview": "https://www.figma.com/community/file/1381952049844287470/audio-player",
+    "projectSource": "https://www.figma.com/community/file/1381952049844287470/audio-player",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectId": "06",
+    "projectTitle": "Chips Landing Page",
+    "projectCategory": ["Ui/Ux", "Design"],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/chipsLandingPage.png",
+    "projectDescription": "This project showcases a clean, responsive UI/UX design for a product landing page featuring Balaji Flamin Hot Nachos. The design includes both desktop and mobile views, highlighting key product information, a prominent product image, quantity selectors, and an Add to cart call-to-action. Its modern aesthetic and clear layout aim to enhance the user's Browse and purchasing experience.",
+    "projectPreview": "https://www.figma.com/community/file/1370750451611842711/chips-landing-page",
+    "projectSource": "https://www.figma.com/community/file/1370750451611842711/chips-landing-page",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectId": "07",
+    "projectTitle": "Clean Login Page",
+    "projectCategory": ["Ui/Ux", "Design"],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/cleanLogin.png",
+    "projectDescription": "Clean Login showcases a modern, responsive UI for user authentication. It features a clean, mobile-first design with intuitive input fields for email and password, options for social login, and clear navigation for account creation or password recovery. The design incorporates a friendly 3D illustration and a soft, inviting color palette, making it an ideal starting point for authentication experiences in web applications.",
+    "projectPreview": "https://www.figma.com/community/file/1304705151624261298/clean-login-design",
+    "projectSource": "https://www.figma.com/community/file/1304705151624261298/clean-login-design",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectId": "08",
+    "projectTitle": "Minimal Login Page",
+    "projectCategory": ["Ui/Ux", "Design"],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/minimalLoginPage.png",
+    "projectDescription": "Minimal Login Ui is a modern, Clean authentication UI built in Figma. It features a clean, mobile-first design and is ideal as a starting point for your web apps.",
+    "projectPreview": "https://www.figma.com/community/file/1369975238903877112/minimal-login-page",
+    "projectSource": "https://www.figma.com/community/file/1369975238903877112/minimal-login-page",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectId": "09",
+    "projectTitle": "Stream Flix",
+    "projectCategory": [
+      "HTML",
+      "Tailwind",
+      "React",
+      "Ui/Ux",
+      "Design",
+      "Development"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/streamFlix.png",
+    "projectDescription": "StreamFlix is a modern, responsive streaming platform UI that showcases trending movies, anime, exclusive shows, and more. Built with React and Tailwind CSS, it delivers a sleek, interactive experience inspired by leading streaming services.",
+    "projectPreview": "https://stream-flixxx.vercel.app/",
+    "projectSource": "https://github.com/saad-shaikh-256/Stream-Flix",
+    "projectIcon": "hgi hgi-stroke hgi-github"
+  },
+  {
+    "projectId": "10",
+    "projectTitle": "Flash Message",
+    "projectCategory": ["Ui/Ux", "Design"],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/flashMessage.png",
+    "projectDescription": "This project presents two mobile UI screens for application feedback: an Ooops!! error state with a red Try again button, and a Success!! state with a green Continue button. Both designs utilize friendly illustrations and color-coded calls to action to provide clear, intuitive user feedback.",
+    "projectPreview": "https://www.figma.com/community/file/1382711155675957779/flash-message",
+    "projectSource": "https://www.figma.com/community/file/1382711155675957779/flash-message",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectId": "11",
+    "projectTitle": "News App",
+    "projectCategory": ["Ui/Ux", "Design"],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/newApp.png",
+    "projectDescription": "This project showcases a mobile UI for news or article consumption. It features a prominent header with a brand logo and article title, along with scrollable text content. An integrated share sheet allows easy sharing via various social platforms. The dark mode theme provides a modern and comfortable reading experience.",
+    "projectPreview": "https://www.figma.com/community/file/1382358562087405876/news-app",
+    "projectSource": "https://www.figma.com/community/file/1382358562087405876/news-app",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectId": "12",
+    "projectTitle": "Minimal Todo",
+    "projectCategory": ["Ui/Ux", "Design"],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/minimalTodo.png",
+    "projectDescription": "This project showcases a mobile UI for a task management application. It features a dashboard view with a personalized greeting, a search bar, categorized tasks and a section for ongoing tasks with progress indicators. The design uses a clean layout with vibrant illustrations and clear typography, aiming for an intuitive and engaging user experience.",
+    "projectPreview": "https://www.figma.com/community/file/1403067973491547837/minimal-to-do",
+    "projectSource": "https://www.figma.com/community/file/1403067973491547837/minimal-to-do",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectId": "13",
+    "projectTitle": "404 Page",
+    "projectCategory": [
+      "HTML",
+      "Tailwind",
+      "React",
+      "Ui/Ux",
+      "Design",
+      "Development"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/404Page.png",
+    "projectDescription": "This project features a clean, modern, and responsive 404 error page UI, designed to enhance user experience when encountering broken or missing links. Built using React, Tailwind CSS, and JavaScript, it offers a visually engaging Boo! Page missing! message with a friendly ghost illustration. This Page Not Found screen is ideal for web applications, portfolios, or any project requiring a stylish and user-friendly error display across both desktop and mobile devices.",
+    "projectPreview": "https://boo-404.vercel.app/",
+    "projectSource": "https://github.com/saad-shaikh-256/404-Page",
+    "projectIcon": "hgi hgi-stroke hgi-github"
+  },
+  {
+    "projectId": "14",
+    "projectTitle": "Expense Tracker",
+    "projectCategory": ["Ui/Ux", "Design"],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/expenseTracker.png",
+    "projectDescription": "This project showcases a clean, intuitive mobile UI for personal finance tracking. It features an overview of current balance with a trend graph, a detailed transaction history, and an overlay for adding new transactions. The design prioritizes clarity and ease of use, with a minimalist aesthetic and clear data representation for managing daily expenses.",
+    "projectPreview": "https://www.figma.com/community/file/1371500161815273112/expense-tracker",
+    "projectSource": "https://www.figma.com/community/file/1371500161815273112/expense-tracker",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectId": "15",
+    "projectTitle": "Job Finder",
+    "projectCategory": ["Ui/Ux", "Design"],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/jobFinder.png",
+    "projectDescription": "This project features a clean, professional mobile UI for a job search application. It includes a dashboard with job recommendations and recent postings, plus a detailed job description screen with an Apply Now button. The design focuses on clear navigation and an efficient job search experience.",
+    "projectPreview": "https://www.figma.com/community/file/1522522593587899021/job-finder",
+    "projectSource": "https://www.figma.com/community/file/1522522593587899021/job-finder",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectId": "16",
+    "projectTitle": "Search Engine",
+    "projectCategory": [
+      "HTML",
+      "Tailwind",
+      "Javascript",
+      "Ui/Ux",
+      "Design",
+      "Development"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/searchEngine.png",
+    "projectDescription": "Search Engine UI is a modern, responsive web homepage that combines a search bar, live weather, clock, motivational quotes, and a bookmark manager. Built with HTML5, Tailwind CSS, and vanilla JavaScript, it offers a clean, interactive experience inspired by productivity dashboards and browser start pages.",
+    "projectPreview": "https://search-engine-ui.netlify.app/",
+    "projectSource": "https://github.com/saad-shaikh-256/Search-Engine-Ui",
+    "projectIcon": "hgi hgi-stroke hgi-github"
+  },
+  {
+    "projectId": "17",
+    "projectTitle": "Professional Login",
+    "projectCategory": ["Ui/Ux", "Design"],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/professionalLogin.png",
+    "projectDescription": "This project features a clean, responsive UI/UX design for a professional login page, compatible with desktop and mobile. It includes essential input fields, a Sign In button, and options for Google login or new account creation. The modern aesthetic and business-oriented visual element provide a sleek, functional user experience.",
+    "projectPreview": "https://www.figma.com/community/file/1363047801969002728/professional-login-page",
+    "projectSource": "https://www.figma.com/community/file/1363047801969002728/professional-login-page",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectId": "18",
+    "projectTitle": "Calculator App",
+    "projectCategory": ["Ui/Ux", "Design"],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/calculatorApp.png",
+    "projectDescription": "This project showcases a clean, functional mobile calculator UI, offering both light and dark mode themes. It features standard numerical and operational buttons, a clear display for input and results, and a history/memory function. The design prioritizes ease of use and visual comfort for basic and complex calculations",
+    "projectPreview": "https://www.figma.com/community/file/1371040846150181225/calculator-app",
+    "projectSource": "https://www.figma.com/community/file/1371040846150181225/calculator-app",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectId": "19",
+    "projectTitle": "Weather App",
+    "projectCategory": ["Ui/Ux", "Design"],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/weatherApp.png",
+    "projectDescription": "This project presents a sleek mobile UI for a weather application, featuring both light and dark modes. It displays current weather conditions (temperature, sky, wind, humidity, rain probability), along with a detailed hourly forecast and a 3-day outlook. The design emphasizes clear data visualization and an intuitive user experience for quick weather checks.",
+    "projectPreview": "https://www.figma.com/community/file/1289964365602571637/weather-app",
+    "projectSource": "https://www.figma.com/community/file/1289964365602571637/weather-app",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectId": "20",
+    "projectTitle": "Login Page",
+    "projectCategory": ["Ui/Ux", "Design"],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/loginPage.png",
+    "projectDescription": "This project showcases a clean, minimalist, and responsive UI/UX design for a user login page, optimized for both desktop and mobile. It features essential input fields for email and password, a Forgot Password? link, and a prominent Sign In button. Google login integration and a Sign up option are also included. The design uses a subtle purple accent and ample white space to create a modern and inviting user experience.",
+    "projectPreview": "https://www.figma.com/community/file/1285910043984717156/login-page",
+    "projectSource": "https://www.figma.com/community/file/1285910043984717156/login-page",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectId": "21",
+    "projectTitle": "Shoes Ecom",
+    "projectCategory": ["Flutter", "SQLite", "Ui/Ux", "Design", "Development"],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/shoesEcom.png",
+    "projectDescription": "Shoes Ecom is a complete mobile e-commerce application for shoes, built using Flutter and SQLite. It features a fully functional product catalog, cart system, order history, and checkout flow—all managed locally. Shoes Ecom is designed with a clean UI, smooth navigation, and essential features to simulate a real shopping experience.",
+    "projectPreview": "https://github.com/saad-shaikh-256/Shoes-eCom-Qadam",
+    "projectSource": "https://github.com/saad-shaikh-256/Shoes-eCom-Qadam",
+    "projectIcon": "hgi hgi-stroke hgi-github"
+  },
+  {
+    "projectId": "21",
+    "projectTitle": "eCom App",
+    "projectCategory": [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Ui/Ux",
+      "Design",
+      "Development"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/ecomApp.png",
+    "projectDescription": "eCom App is a modern and responsive e-commerce web application built using HTML, CSS, and JavaScript. This project converts a Figma design into a fully functional front-end interface.",
+    "projectPreview": "https://ecom-web-app-404.vercel.app/",
+    "projectSource": "https://github.com/saad-shaikh-256/eCom-Web-App",
+    "projectIcon": "hgi hgi-stroke hgi-github"
+  },
+  {
+    "projectId": "22",
+    "projectTitle": "Checkout Page",
+    "projectCategory": ["Ui/Ux", "Design"],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/checkoutPage.png",
+    "projectDescription": "This project showcases a clean, responsive UI/UX for an e-commerce guest checkout and payment details page. It features a streamlined layout for order summary, shipping information, and secure payment input fields (card details, CVV). The design includes options for popular digital payment methods and prioritizes clarity and ease of use to facilitate a smooth transaction process on both desktop and mobile.",
+    "projectPreview": "https://www.figma.com/community/file/1370411272796054360/checkout-page",
+    "projectSource": "https://www.figma.com/community/file/1370411272796054360/checkout-page",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectId": "22",
+    "projectTitle": "Weighbridge  Landing-Page",
+    "projectCategory": ["Ui/Ux", "Design"],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/weighbridgeLandingPage.png",
+    "projectDescription": "This project showcases a modern, responsive landing page UI/UX designed for a weighbridge manufacturer, inspired by a Tesla-like aesthetic. It features large, impactful imagery of the products, clear product names, concise descriptions, and prominent call-to-action buttons. The layout prioritizes visual appeal and direct communication to effectively present the industrial products.",
+    "projectPreview": "#",
+    "projectSource": "#",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectId": "23",
+    "projectTitle": "Furniture eCom ",
+    "projectCategory": ["Ui/Ux", "Design"],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/furnitureEcom.png",
+    "projectDescription": "This project showcases a clean and intuitive mobile UI for a furniture e-commerce application. It features a home screen with location detection, a search bar, product categories like New Collection and Flash Sale, and product listings with prices. The second screen presents detailed cart contents, including item quantities, applied discounts via coupon codes, and a clear breakdown of pricing. The design prioritizes ease of Browse and a transparent checkout process.",
+    "projectPreview": "https://www.figma.com/community/file/1289617240029426611/furniture-ecom",
+    "projectSource": "https://www.figma.com/community/file/1289617240029426611/furniture-ecom",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectId": "24",
+    "projectTitle": "Fashion Lookbook App",
+    "projectCategory": ["Ui/Ux", "Design"],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/fashionLookbook.png",
+    "projectDescription": "This project showcases a modern mobile UI for a fashion lookbook application. It features a personalized greeting, a prominent New Collection!! section with appealing visuals, and categorized Browse options. The design displays various fashion items and models in an engaging grid layout, prioritizing visual appeal and intuitive navigation for exploring new styles and collections.",
+    "projectPreview": "https://www.figma.com/community/file/1315214329127332255/fashion-lookbook-app",
+    "projectSource": "https://www.figma.com/community/file/1315214329127332255/fashion-lookbook-app",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectId": "25",
+    "projectTitle": "Chat Screen",
+    "projectCategory": ["Ui/Ux", "Design"],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/chatScreen.png",
+    "projectDescription": "This project showcases a clean and intuitive mobile UI for a chat application. It features a personalized greeting, a story/status bar at the top, and a list of ongoing chats with user profiles and last message previews. A floating action button allows for starting new chats, contacts, or communities, accessible via a pop-up menu. The design prioritizes clear communication and easy navigation within the messaging interface.",
+    "projectPreview": "https://www.figma.com/community/file/1356814872628202084/chat-screen-design",
+    "projectSource": "https://www.figma.com/community/file/1356814872628202084/chat-screen-design",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectId": "26",
+    "projectTitle": "Travel Landing Page",
+    "projectCategory": [
+      "HTML",
+      "Tailwind",
+      "React",
+      "Ui/Ux",
+      "Design",
+      "Development"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/travelLandingPage.png",
+    "projectDescription": "Travel Landing Page is a modern, visually appealing website designed to showcase popular travel destinations, promote special offers, and provide users with a seamless, interactive browsing experience. Built with React and Tailwind CSS, this project is perfect for travel agencies, tour operators, or any travel-related business aiming to attract and engage visitors.",
+    "projectPreview": "https://travel-page-404.vercel.app/",
+    "projectSource": "https://github.com/saad-shaikh-256/Travel-Landing-Page",
+    "projectIcon": "hgi hgi-stroke hgi-github"
+  },
+  {
+    "projectId": "27",
+    "projectTitle": "GYM Landing Page",
+    "projectCategory": ["Ui/Ux", "Design"],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/gymLandingPage.png",
+    "projectDescription": "This project showcases a modern and visually rich responsive UI/UX for a travel agency landing page. It features a prominent hero section with a compelling headline, sections for Most Popular Destinations and Perfect Escapes displayed with engaging image grids, and a Wonders of the World highlight. The design also includes interactive elements like FAQs and a newsletter subscription, creating an immersive and user-friendly experience to inspire travel.",
+    "projectPreview": "https://www.figma.com/community/file/1305447912630388195/gym-landing-page",
+    "projectSource": "https://www.figma.com/community/file/1305447912630388195/gym-landing-page",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectId": "28",
+    "projectTitle": "Hotel Landing Page",
+    "projectCategory": ["Ui/Ux", "Design"],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/hotelLandingPage.png",
+    "projectDescription": "This project showcases a modern, responsive UI/UX design for a hotel landing page. It features a prominent hero section highlighting the hotel with a stunning image, sections to Explore Our Rooms and Explore Our Services with clear visuals and descriptions, and social proof elements like What People Say. The design uses a clean layout with vibrant orange accents to create an inviting and informative user experience for potential guests.",
+    "projectPreview": "https://www.figma.com/community/file/1376189428140518191/hotel-landing-page",
+    "projectSource": "https://www.figma.com/community/file/1376189428140518191/hotel-landing-page",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectId": "29",
+    "projectTitle": "Smart Bulb",
+    "projectCategory": ["Ui/Ux", "Design"],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/smartBulb.png",
+    "projectDescription": "This project showcases a clean and intuitive mobile UI for controlling smart home lighting. It features a splash screen leading to a detailed control panel for a selected device, showing current status, color options, and brightness intensity via a slider. The UI also includes a section for managing Other Devices and a bottom navigation bar for overall app control, offering a seamless user experience for smart home management.",
+    "projectPreview": "#",
+    "projectSource": "#",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectId": "30",
+    "projectTitle": "IOT Smart App",
+    "projectCategory": ["Ui/Ux", "Design"],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/iotSmartApp.png",
+    "projectDescription": "This project showcases a clean and intuitive mobile UI for an energy management application. The dashboard displays overall energy usage, categorizes usage by rooms, and shows individual device statuses with progress indicators. A detailed device screen provides inventory levels, specific energy usage, and historical data visualized with a graph. The design prioritizes clear data presentation for efficient energy monitoring and control.",
+    "projectPreview": "#",
+    "projectSource": "#",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectId": "31",
+    "projectTitle": "Smart Ring App",
+    "projectCategory": ["Ui/Ux", "Design"],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/smartRing.png",
+    "projectDescription": "This project showcases a clean and engaging mobile UI for a fitness and activity tracking application. The main dashboard displays a daily activity overview with key metrics like distance, time, water intake, steps, and heart rate, using vibrant progress indicators. A Daily Overview screen provides a detailed report of goals status with interactive charts and a meal tracker. The design prioritizes clear data visualization and a motivational user experience.",
+    "projectPreview": "#",
+    "projectSource": "#",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectId": "32",
+    "projectTitle": "IOT Smart Dashboard",
+    "projectCategory": ["Ui/Ux", "Design"],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/iotSmartDashboard.png",
+    "projectDescription": "This project showcases a modern and intuitive UI for a comprehensive dashboard and mobile application. The dashboard provides a clear overview of user activity, device metrics, and support data through engaging charts and key performance indicators. The accompanying mobile UI focuses on energy usage monitoring, presenting data in an accessible and user-friendly format with smart device controls. The design emphasizes data visualization, user engagement, and seamless control for both administrators and end-users.",
+    "projectPreview": "#",
+    "projectSource": "#",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectId": "33",
+    "projectTitle": "Bike Landing Page",
+    "projectCategory": ["Ui/Ux", "Design"],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/bikeLandingPage.png",
+    "projectDescription": "This project features a sleek and modern landing page design for a bike-sharing or ride-hailing service. The design effectively highlights the ease and comfort of the service with prominent visuals of the electric scooter. Key service advantages like instant booking and affordable fares are clearly communicated. The inclusion of testimonials, partner integration, and a dedicated mobile app section creates a comprehensive user experience aimed at encouraging sign-ups and app downloads.",
+    "projectPreview": "#",
+    "projectSource": "#",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectId": "34",
+    "projectTitle": "Shoes Landing Page",
+    "projectCategory": ["Ui/Ux", "Design"],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/shoesLandingPage.png",
+    "projectDescription": "This project showcases a clean and visually appealing e-commerce landing page design for a shoe brand, specifically featuring the iconic Air Jordan. The design effectively highlights the product with a large, engaging image and clear calls to action for Shop Now and More information. The minimalist aesthetic ensures the product remains the focal point, while navigation elements are easily accessible. The responsive design is demonstrated through both laptop and mobile views, ensuring a consistent and optimized user experience across devices.",
+    "projectPreview": "https://www.figma.com/community/file/1371788296332031928/shoes-landing-page",
+    "projectSource": "https://www.figma.com/community/file/1371788296332031928/shoes-landing-page",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectId": "35",
+    "projectTitle": "DentyTech UI",
+    "projectCategory": ["HTML", "CSS", "Javascript", "GSAP", "Development"],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/dentyTechUI.png",
+    "projectDescription": "DentyTech UI is a modern, responsive dental care landing page inspired by a clean and professional aesthetic. Built with HTML, CSS (Tailwind CSS), and JavaScript, it features smooth animations, a striking hero section, and a focus on user experience.",
+    "projectPreview": "https://dentytech-ui.vercel.app/",
+    "projectSource": "https://github.com/saad-shaikh-256/DentyTech-Ui",
+    "projectIcon": "hgi hgi-stroke hgi-github"
+  },
+  {}
+]
