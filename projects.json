@@ -351,9 +351,9 @@
       "Figma"
     ],
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/smartBulb.png",
-    "projectPreview": "#",
-    "projectSource": "#",
-    "projectIcon": "hgi hgi-stroke hgi-figma"
+    "projectPreview": "https://dribbble.com/shots/26246452-Smart-Bulb",
+    "projectSource": "https://dribbble.com/shots/26246452-Smart-Bulb",
+    "projectIcon": "hgi hgi-stroke hgi-dribbble"
   },
   {
     "projectTitle": "IOT Smart App",
@@ -364,9 +364,9 @@
       "Figma"
     ],
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/iotSmartApp.png",
-    "projectPreview": "#",
-    "projectSource": "#",
-    "projectIcon": "hgi hgi-stroke hgi-figma"
+    "projectPreview": "https://dribbble.com/shots/26246551-IOT-Smart-App",
+    "projectSource": "https://dribbble.com/shots/26246551-IOT-Smart-App",
+    "projectIcon": "hgi hgi-stroke hgi-dribbble"
   },
   {
     "projectTitle": "Smart Ring App",
@@ -377,9 +377,9 @@
       "Figma"
     ],
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/smartRing.png",
-    "projectPreview": "#",
-    "projectSource": "#",
-    "projectIcon": "hgi hgi-stroke hgi-figma"
+    "projectPreview": "https://dribbble.com/shots/26246512-Smart-Ring-App",
+    "projectSource": "https://dribbble.com/shots/26246512-Smart-Ring-App",
+    "projectIcon": "hgi hgi-stroke hgi-dribbble"
   },
   {
     "projectTitle": "IOT Smart Dashboard",
@@ -390,9 +390,9 @@
       "Figma"
     ],
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/iotSmartDashboard.png",
-    "projectPreview": "#",
-    "projectSource": "#",
-    "projectIcon": "hgi hgi-stroke hgi-figma"
+    "projectPreview": "https://dribbble.com/shots/26246594-IOT-Smart-Dashboard",
+    "projectSource": "https://dribbble.com/shots/26246594-IOT-Smart-Dashboard",
+    "projectIcon": "hgi hgi-stroke hgi-dribbble"
   },
   {
     "projectTitle": "DentyTech UI",
@@ -410,7 +410,7 @@
     "projectIcon": "hgi hgi-stroke hgi-github"
   },
   {
-    "projectTitle": "Weighbridge  Landing-Page",
+    "projectTitle": "Weighbridge Landing Page",
     "projectDivider": [
       "Design"
     ],
@@ -418,9 +418,9 @@
       "Figma"
     ],
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/weighbridgeLandingPage.png",
-    "projectPreview": "#",
-    "projectSource": "#",
-    "projectIcon": "hgi hgi-stroke hgi-figma"
+    "projectPreview": "https://dribbble.com/shots/26236513-Weigh-Bridge-Landing-Page",
+    "projectSource": "https://dribbble.com/shots/26236513-Weigh-Bridge-Landing-Page",
+    "projectIcon": "hgi hgi-stroke hgi-dribbble"
   },
   {
     "projectTitle": "Bike Landing Page",
@@ -431,9 +431,9 @@
       "Figma"
     ],
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/bikeLandingPage.png",
-    "projectPreview": "#",
-    "projectSource": "#",
-    "projectIcon": "hgi hgi-stroke hgi-figma"
+    "projectPreview": "https://dribbble.com/shots/24320188-Bike-Landing-Page",
+    "projectSource": "https://dribbble.com/shots/24320188-Bike-Landing-Page",
+    "projectIcon": "hgi hgi-stroke hgi-dribbble"
   },
   {
     "projectTitle": "GYM Landing Page",
