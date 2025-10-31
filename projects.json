@@ -519,5 +519,20 @@
     "projectPreview": "https://saad-shaikh-256.github.io/Pokedex-API/",
     "projectSource": "https://github.com/saad-shaikh-256/Pokedex-API",
     "projectIcon": "hgi hgi-stroke hgi-github"
+  },
+  {
+    "projectTitle": "Chat-App",
+    "projectDivider": [
+      "Design",
+      "Development"
+    ],
+    "projectCategory": [
+      "Webflow",
+      "Figma"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/chatApp.png",
+    "projectPreview": "https://saad-chatapp.webflow.io/",
+    "projectSource": "https://saad-chatapp.webflow.io/",
+    "projectIcon": "hgi hgi-stroke hgi-webflow"
   }
 ]
