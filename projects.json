@@ -1,0 +1,540 @@
+[
+  {
+    "projectTitle": "Mobile Navbar",
+    "projectDivider": [
+      "Design"
+    ],
+    "projectCategory": [
+      "Figma"
+    ],
+    "projectDescription": "A sleek, responsive floating navbar system featuring a unique concave active state. Built with Figma Auto Layout, it includes fully systemized Light and Dark mode variants for modern mobile interfaces.",
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/navbarCover.png",
+    "projectPreview": "https://www.figma.com/community/file/1285886007707459867/navbar",
+    "projectSource": "https://www.figma.com/community/file/1285886007707459867/navbar",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectTitle": "Simple Login",
+    "projectDivider": [
+      "Design",
+      "Development"
+    ],
+    "projectCategory": [
+      "Tailwind",
+      "GSAP",
+      "Figma"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/simpleLogin.png",
+    "projectPreview": "https://simple-login-ui.vercel.app/",
+    "projectSource": "https://github.com/saad-shaikh-256/Simple-Login-Ui",
+    "projectIcon": "hgi hgi-stroke hgi-github"
+  },
+  {
+    "projectTitle": "Cool Login",
+    "projectDivider": [
+      "Design",
+      "Development"
+    ],
+    "projectCategory": [
+      "Tailwind",
+      "GSAP",
+      "Figma"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/coolLogin.png",
+    "projectPreview": "https://cool-login-ui.vercel.app/",
+    "projectSource": "https://github.com/saad-shaikh-256/Cool-Login-Ui",
+    "projectIcon": "hgi hgi-stroke hgi-github"
+  },
+  {
+    "projectTitle": "Performance Report Generator",
+    "projectDivider": [
+      "Development"
+    ],
+    "projectCategory": [
+      "C",
+      "CPP"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/reportGenerator.png",
+    "projectPreview": "https://github.com/saad-shaikh-256/Performance-Report-Generator",
+    "projectSource": "https://github.com/saad-shaikh-256/Performance-Report-Generator",
+    "projectIcon": "hgi hgi-stroke hgi-github"
+  },
+  {
+    "projectTitle": "Chips Landing Page",
+    "projectDivider": [
+      "Design"
+    ],
+    "projectCategory": [
+      "Figma"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/chipsLandingPage.png",
+    "projectPreview": "https://www.figma.com/community/file/1370750451611842711/chips-landing-page",
+    "projectSource": "https://www.figma.com/community/file/1370750451611842711/chips-landing-page",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectTitle": "Clean Login Page",
+    "projectDivider": [
+      "Design"
+    ],
+    "projectCategory": [
+      "Figma"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/cleanLogin.png",
+    "projectPreview": "https://www.figma.com/community/file/1304705151624261298/clean-login-design",
+    "projectSource": "https://www.figma.com/community/file/1304705151624261298/clean-login-design",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectTitle": "Minimal Login Page",
+    "projectDivider": [
+      "Design"
+    ],
+    "projectCategory": [
+      "Figma"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/minimalLoginPage.png",
+    "projectPreview": "https://www.figma.com/community/file/1369975238903877112/minimal-login-page",
+    "projectSource": "https://www.figma.com/community/file/1369975238903877112/minimal-login-page",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectTitle": "Professional Login",
+    "projectDivider": [
+      "Design"
+    ],
+    "projectCategory": [
+      "Figma"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/professionalLogin.png",
+    "projectPreview": "https://www.figma.com/community/file/1363047801969002728/professional-login-page",
+    "projectSource": "https://www.figma.com/community/file/1363047801969002728/professional-login-page",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectTitle": "Audio Player",
+    "projectDivider": [
+      "Design"
+    ],
+    "projectCategory": [
+      "Figma"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/audioPlayer.png",
+    "projectPreview": "https://www.figma.com/community/file/1381952049844287470/audio-player",
+    "projectSource": "https://www.figma.com/community/file/1381952049844287470/audio-player",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectTitle": "Flash Message",
+    "projectDivider": [
+      "Design"
+    ],
+    "projectCategory": [
+      "Figma"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/flashMessage.png",
+    "projectPreview": "https://www.figma.com/community/file/1382711155675957779/flash-message",
+    "projectSource": "https://www.figma.com/community/file/1382711155675957779/flash-message",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectTitle": "News App",
+    "projectDivider": [
+      "Design"
+    ],
+    "projectCategory": [
+      "Figma"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/newApp.png",
+    "projectPreview": "https://www.figma.com/community/file/1382358562087405876/news-app",
+    "projectSource": "https://www.figma.com/community/file/1382358562087405876/news-app",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectTitle": "Minimal Todo",
+    "projectDivider": [
+      "Design"
+    ],
+    "projectCategory": [
+      "Figma"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/minimalTodo.png",
+    "projectPreview": "https://www.figma.com/community/file/1403067973491547837/minimal-to-do",
+    "projectSource": "https://www.figma.com/community/file/1403067973491547837/minimal-to-do",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectTitle": "Expense Tracker",
+    "projectDivider": [
+      "Design"
+    ],
+    "projectCategory": [
+      "Figma"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/expenseTracker.png",
+    "projectPreview": "https://www.figma.com/community/file/1371500161815273112/expense-tracker",
+    "projectSource": "https://www.figma.com/community/file/1371500161815273112/expense-tracker",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectTitle": "Job Finder",
+    "projectDivider": [
+      "Design"
+    ],
+    "projectCategory": [
+      "Figma"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/jobFinder.png",
+    "projectPreview": "https://www.figma.com/community/file/1522522593587899021/job-finder",
+    "projectSource": "https://www.figma.com/community/file/1522522593587899021/job-finder",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectTitle": "Search Engine",
+    "projectDivider": [
+      "Development",
+      "Design"
+    ],
+    "projectCategory": [
+      "Tailwind",
+      "Javascript",
+      "Figma"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/searchEngine.png",
+    "projectPreview": "https://search-engine-ui.netlify.app/",
+    "projectSource": "https://github.com/saad-shaikh-256/Search-Engine-Ui",
+    "projectIcon": "hgi hgi-stroke hgi-github"
+  },
+  {
+    "projectTitle": "404 Page",
+    "projectDivider": [
+      "Design",
+      "Development"
+    ],
+    "projectCategory": [
+      "React",
+      "Tailwind",
+      "Figma"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/404Page.png",
+    "projectPreview": "https://boo-404.vercel.app/",
+    "projectSource": "https://github.com/saad-shaikh-256/404-Page",
+    "projectIcon": "hgi hgi-stroke hgi-github"
+  },
+  {
+    "projectTitle": "Calculator App",
+    "projectDivider": [
+      "Design"
+    ],
+    "projectCategory": [
+      "Figma"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/calculatorApp.png",
+    "projectPreview": "https://www.figma.com/community/file/1371040846150181225/calculator-app",
+    "projectSource": "https://www.figma.com/community/file/1371040846150181225/calculator-app",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectTitle": "Weather App",
+    "projectDivider": [
+      "Design"
+    ],
+    "projectCategory": [
+      "Figma"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/weatherApp.png",
+    "projectPreview": "https://www.figma.com/community/file/1289964365602571637/weather-app",
+    "projectSource": "https://www.figma.com/community/file/1289964365602571637/weather-app",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectTitle": "Checkout Page",
+    "projectDivider": [
+      "Design"
+    ],
+    "projectCategory": [
+      "Figma"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/checkoutPage.png",
+    "projectPreview": "https://www.figma.com/community/file/1370411272796054360/checkout-page",
+    "projectSource": "https://www.figma.com/community/file/1370411272796054360/checkout-page",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectTitle": "Login Page",
+    "projectDivider": [
+      "Design"
+    ],
+    "projectCategory": [
+      "Figma"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/loginPage.png",
+    "projectPreview": "https://www.figma.com/community/file/1285910043984717156/login-page",
+    "projectSource": "https://www.figma.com/community/file/1285910043984717156/login-page",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectTitle": "eCom App",
+    "projectDivider": [
+      "Design",
+      "Development"
+    ],
+    "projectCategory": [
+      "Javascript",
+      "Figma"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/ecomApp.png",
+    "projectPreview": "https://ecom-web-app-404.vercel.app/",
+    "projectSource": "https://github.com/saad-shaikh-256/eCom-Web-App",
+    "projectIcon": "hgi hgi-stroke hgi-github"
+  },
+  {
+    "projectTitle": "Qadam Shoes Ecom",
+    "projectDivider": [
+      "Design",
+      "Development"
+    ],
+    "projectCategory": [
+      "Flutter",
+      "SQLite",
+      "Figma"
+    ],
+    "projectDescription": "A minimalist e-commerce shoe app UI featuring a clean orange aesthetic, high-conversion product pages, and a fully responsive layout.",
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/shoesEcom.png",
+    "projectPreview": "https://github.com/saad-shaikh-256/Shoes-eCom-Qadam",
+    "projectSource": "https://github.com/saad-shaikh-256/Shoes-eCom-Qadam",
+    "projectIcon": "hgi hgi-stroke hgi-github"
+  },
+  {
+    "projectTitle": "Furniture eCom",
+    "projectDivider": [
+      "Design"
+    ],
+    "projectCategory": [
+      "Figma"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/furnitureEcom.png",
+    "projectPreview": "https://www.figma.com/community/file/1289617240029426611/furniture-ecom",
+    "projectSource": "https://www.figma.com/community/file/1289617240029426611/furniture-ecom",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectTitle": "Fashion Lookbook App",
+    "projectDivider": [
+      "Design"
+    ],
+    "projectCategory": [
+      "Figma"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/fashionLookbook.png",
+    "projectPreview": "https://www.figma.com/community/file/1315214329127332255/fashion-lookbook-app",
+    "projectSource": "https://www.figma.com/community/file/1315214329127332255/fashion-lookbook-app",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectTitle": "Chat Screen",
+    "projectDivider": [
+      "Design"
+    ],
+    "projectCategory": [
+      "Figma"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/chatScreen.png",
+    "projectPreview": "https://www.figma.com/community/file/1356814872628202084/chat-screen-design",
+    "projectSource": "https://www.figma.com/community/file/1356814872628202084/chat-screen-design",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectTitle": "Smart Bulb",
+    "projectDivider": [
+      "Design"
+    ],
+    "projectCategory": [
+      "Figma"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/smartBulb.png",
+    "projectPreview": "https://dribbble.com/shots/26246452-Smart-Bulb",
+    "projectSource": "https://dribbble.com/shots/26246452-Smart-Bulb",
+    "projectIcon": "hgi hgi-stroke hgi-dribbble"
+  },
+  {
+    "projectTitle": "IOT Smart App",
+    "projectDivider": [
+      "Design"
+    ],
+    "projectCategory": [
+      "Figma"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/iotSmartApp.png",
+    "projectPreview": "https://dribbble.com/shots/26246551-IOT-Smart-App",
+    "projectSource": "https://dribbble.com/shots/26246551-IOT-Smart-App",
+    "projectIcon": "hgi hgi-stroke hgi-dribbble"
+  },
+  {
+    "projectTitle": "Smart Ring App",
+    "projectDivider": [
+      "Design"
+    ],
+    "projectCategory": [
+      "Figma"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/smartRing.png",
+    "projectPreview": "https://dribbble.com/shots/26246512-Smart-Ring-App",
+    "projectSource": "https://dribbble.com/shots/26246512-Smart-Ring-App",
+    "projectIcon": "hgi hgi-stroke hgi-dribbble"
+  },
+  {
+    "projectTitle": "IOT Smart Dashboard",
+    "projectDivider": [
+      "Design"
+    ],
+    "projectCategory": [
+      "Figma"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/iotSmartDashboard.png",
+    "projectPreview": "https://dribbble.com/shots/26246594-IOT-Smart-Dashboard",
+    "projectSource": "https://dribbble.com/shots/26246594-IOT-Smart-Dashboard",
+    "projectIcon": "hgi hgi-stroke hgi-dribbble"
+  },
+  {
+    "projectTitle": "DentyTech UI",
+    "projectDivider": [
+      "Development"
+    ],
+    "projectCategory": [
+      "HTML",
+      "CSS",
+      "GSAP"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/dentyTechUI.png",
+    "projectPreview": "https://dentytech-ui.vercel.app/",
+    "projectSource": "https://github.com/saad-shaikh-256/DentyTech-Ui",
+    "projectIcon": "hgi hgi-stroke hgi-github"
+  },
+  {
+    "projectTitle": "Weighbridge Landing Page",
+    "projectDivider": [
+      "Design"
+    ],
+    "projectCategory": [
+      "Figma"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/weighbridgeLandingPage.png",
+    "projectPreview": "https://dribbble.com/shots/26236513-Weigh-Bridge-Landing-Page",
+    "projectSource": "https://dribbble.com/shots/26236513-Weigh-Bridge-Landing-Page",
+    "projectIcon": "hgi hgi-stroke hgi-dribbble"
+  },
+  {
+    "projectTitle": "Bike Landing Page",
+    "projectDivider": [
+      "Design"
+    ],
+    "projectCategory": [
+      "Figma"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/bikeLandingPage.png",
+    "projectPreview": "https://dribbble.com/shots/24320188-Bike-Landing-Page",
+    "projectSource": "https://dribbble.com/shots/24320188-Bike-Landing-Page",
+    "projectIcon": "hgi hgi-stroke hgi-dribbble"
+  },
+  {
+    "projectTitle": "GYM Landing Page",
+    "projectDivider": [
+      "Design"
+    ],
+    "projectCategory": [
+      "Figma"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/gymLandingPage.png",
+    "projectPreview": "https://www.figma.com/community/file/1305447912630388195/gym-landing-page",
+    "projectSource": "https://www.figma.com/community/file/1305447912630388195/gym-landing-page",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectTitle": "Hotel Landing Page",
+    "projectDivider": [
+      "Design"
+    ],
+    "projectCategory": [
+      "Figma"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/hotelLandingPage.png",
+    "projectPreview": "https://www.figma.com/community/file/1376189428140518191/hotel-landing-page",
+    "projectSource": "https://www.figma.com/community/file/1376189428140518191/hotel-landing-page",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectTitle": "Stream Flix",
+    "projectDivider": [
+      "Design",
+      "Development"
+    ],
+    "projectCategory": [
+      "Tailwind",
+      "React",
+      "Figma"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/streamFlix.png",
+    "projectPreview": "https://stream-flix-movies.vercel.app/",
+    "projectSource": "https://github.com/saad-shaikh-256/Stream-Flix",
+    "projectIcon": "hgi hgi-stroke hgi-github"
+  },
+  {
+    "projectTitle": "Travel Landing Page",
+    "projectDivider": [
+      "Design",
+      "Development"
+    ],
+    "projectCategory": [
+      "Tailwind",
+      "React",
+      "Figma"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/travelLandingPage.png",
+    "projectPreview": "https://travel-page-404.vercel.app/",
+    "projectSource": "https://github.com/saad-shaikh-256/Travel-Landing-Page",
+    "projectIcon": "hgi hgi-stroke hgi-github"
+  },
+  {
+    "projectTitle": "Shoes Landing Page",
+    "projectDivider": [
+      "Design"
+    ],
+    "projectCategory": [
+      "Figma"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/shoesLandingPage.png",
+    "projectPreview": "https://www.figma.com/community/file/1371788296332031928/shoes-landing-page",
+    "projectSource": "https://www.figma.com/community/file/1371788296332031928/shoes-landing-page",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
+  },
+  {
+    "projectTitle": "Pokedex Api",
+    "projectDivider": [
+      "Development"
+    ],
+    "projectCategory": [
+      "Tailwind",
+      "Javascript"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/pokedexApi.png",
+    "projectPreview": "https://saad-shaikh-256.github.io/Pokedex-API/",
+    "projectSource": "https://github.com/saad-shaikh-256/Pokedex-API",
+    "projectIcon": "hgi hgi-stroke hgi-github"
+  },
+  {
+    "projectTitle": "Chat-App",
+    "projectDivider": [
+      "Design",
+      "Development"
+    ],
+    "projectCategory": [
+      "Webflow",
+      "Figma"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/chatApp.png",
+    "projectPreview": "https://saad-chatapp.webflow.io/",
+    "projectSource": "https://saad-chatapp.webflow.io/",
+    "projectIcon": "hgi hgi-stroke hgi-webflow"
+  }
+]

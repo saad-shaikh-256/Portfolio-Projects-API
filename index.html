@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio Projects</title>
+    <!-- Link to Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Link to our CSS file -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>My Portfolio Projects</h1>
+        <!-- UPDATED: Subtitle text changed as requested -->
+        <p class="subtitle">This is just for testing (Still Adding Projects)</p>
+    </header>
+
+    <main>
+        <!-- Filter Buttons -->
+        <div class="filter-buttons">
+            <button class="filter-btn active" data-category="All">All</button>
+            <button class="filter-btn" data-category="Design">Design</button>
+            <button class="filter-btn" data-category="Development">Development</button>
+        </div>
+
+        <!-- The project cards will be injected here by JavaScript -->
+        <div id="projects-container" class="projects-grid">
+            <p class="loading-message">Loading projects...</p>
+        </div>
+    </main>
+
+    <!-- Link to our JavaScript file -->
+    <script src="script.js"></script>
+</body>
+</html>
