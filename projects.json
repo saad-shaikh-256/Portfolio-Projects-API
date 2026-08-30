@@ -552,5 +552,20 @@
     "projectPreview": "https://make-link.vercel.app/",
     "projectSource": "https://github.com/saad-shaikh-256/URL-Shortner",
     "projectIcon": "hgi hgi-stroke hgi-github"
+  },
+  {
+    "projectTitle": "Hue - Color Palette",
+    "projectDivider": [
+      "Design",
+      "Development"
+    ],
+    "projectCategory": [
+      "Figma",
+      "Plugin"
+    ],
+    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/hueColorPalette.png",
+    "projectPreview": "https://www.figma.com/community/plugin/1653007904353272290/hue-color-palette",
+    "projectSource": "https://www.figma.com/community/plugin/1653007904353272290/hue-color-palette",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
   }
 ]
