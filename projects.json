@@ -1,33 +1,30 @@
 [
   {
-    "projectTitle": "Mobile Navbar",
+    "projectTitle": "Modern Floating Navbar",
     "projectDivider": [
       "Design"
     ],
     "projectCategory": [
       "Figma"
     ],
-    "projectDescription": "A sleek, responsive floating navbar system featuring a unique concave active state. Built with Figma Auto Layout, it includes fully systemized Light and Dark mode variants for modern mobile interfaces.",
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/navbarCover.png",
     "projectPreview": "https://www.figma.com/community/file/1285886007707459867/navbar",
     "projectSource": "https://www.figma.com/community/file/1285886007707459867/navbar",
     "projectIcon": "hgi hgi-stroke hgi-figma"
   },
   {
-    "projectTitle": "Simple Login",
+    "projectTitle": "Simple Login - Mobile Auth UI",
     "projectDivider": [
       "Design",
       "Development"
     ],
     "projectCategory": [
-      "Tailwind",
-      "GSAP",
       "Figma"
     ],
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/simpleLogin.png",
-    "projectPreview": "https://simple-login-ui.vercel.app/",
-    "projectSource": "https://github.com/saad-shaikh-256/Simple-Login-Ui",
-    "projectIcon": "hgi hgi-stroke hgi-github"
+    "projectPreview": "https://www.figma.com/proto/5yNC1rmK6Offpc0JuYuTKx/Simple-Login---Mobile-Auth-UI-Kit-%E2%9C%A8?node-id=2211-720&p=f&t=mCrtAnaWENo2Acb5-8&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2212%3A41&hide-ui=1",
+    "projectSource": "https://www.figma.com/community/file/1300432160609727073/simple-login-mobile-auth-ui-kit",
+    "projectIcon": "hgi hgi-stroke hgi-figma"
   },
   {
     "projectTitle": "Cool Login",
