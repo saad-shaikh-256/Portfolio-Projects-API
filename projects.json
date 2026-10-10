@@ -41,20 +41,6 @@
     "projectIcon": "hgi hgi-stroke hgi-figma"
   },
   {
-    "projectTitle": "Performance Report Generator",
-    "projectDivider": [
-      "Development"
-    ],
-    "projectCategory": [
-      "C",
-      "CPP"
-    ],
-    "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/reportGenerator.webp",
-    "projectPreview": "https://github.com/saad-shaikh-256/Performance-Report-Generator",
-    "projectSource": "https://github.com/saad-shaikh-256/Performance-Report-Generator",
-    "projectIcon": "hgi hgi-stroke hgi-github"
-  },
-  {
     "projectTitle": "Chips Landing Page",
     "projectDivider": [
       "Design"
