@@ -1,0 +1,96 @@
+name: Optimize portfolio images
+
+on:
+  push:
+    branches:
+      - testing
+    paths:
+      - 'Images/**'
+      - 'projects.json'
+      - '.github/workflows/optimize-images.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  optimize:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out testing branch
+        uses: actions/checkout@v4
+        with:
+          ref: testing
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install image tools
+        run: pip install Pillow
+
+      - name: Convert project images to WebP
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          from urllib.parse import urlparse
+          from PIL import Image
+
+          repo_root = Path('.')
+          data_path = repo_root / 'projects.json'
+          projects = json.loads(data_path.read_text(encoding='utf-8'))
+          changed = 0
+
+          for project in projects:
+              source_url = project.get('projectImage', '')
+              parsed = urlparse(source_url)
+              marker = '/Portfolio-Projects-API/Images/'
+              if marker in parsed.path:
+                  relative = parsed.path.split(marker, 1)[1]
+              elif '/Images/' in parsed.path:
+                  relative = parsed.path.split('/Images/', 1)[1]
+              else:
+                  continue
+
+              source = repo_root / 'Images' / relative
+              if not source.is_file():
+                  print(f'Skipping missing image: {source}')
+                  continue
+
+              target = repo_root / 'Images' / 'optimized' / (source.stem + '.webp')
+              target.parent.mkdir(parents=True, exist_ok=True)
+
+              with Image.open(source) as image:
+                  image.thumbnail((1800, 1800), Image.Resampling.LANCZOS)
+                  if image.mode not in ('RGB', 'RGBA'):
+                      image = image.convert('RGBA' if 'A' in image.getbands() else 'RGB')
+                  image.save(target, 'WEBP', quality=82, method=6)
+
+              project['projectImage'] = (
+                  'https://raw.githubusercontent.com/saad-shaikh-256/'
+                  'Portfolio-Projects-API/testing/Images/optimized/'
+                  + target.name
+              )
+              changed += 1
+              print(f'{source} -> {target} ({target.stat().st_size:,} bytes)')
+
+          data_path.write_text(
+              json.dumps(projects, ensure_ascii=False, indent=2) + '\n',
+              encoding='utf-8'
+          )
+          print(f'Updated {changed} project image references.')
+          PY
+
+      - name: Commit optimized assets and updated image URLs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Images/optimized projects.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Optimize portfolio project images"
+            git push origin testing
+          else
+            echo "No image changes to commit."
+          fi
