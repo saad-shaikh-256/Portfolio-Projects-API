@@ -10,7 +10,8 @@
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/navbarCover.webp",
     "projectPreview": "https://www.figma.com/community/file/1285886007707459867/navbar",
     "projectSource": "https://www.figma.com/community/file/1285886007707459867/navbar",
-    "projectIcon": "hgi hgi-stroke hgi-figma"
+    "projectIcon": "hgi hgi-stroke hgi-figma",
+    "projectDescription": "A floating navigation bar concept designed to keep key links accessible without overwhelming the page. Its compact layout gives the interface a modern feel while keeping navigation clear and focused."
   },
   {
     "projectTitle": "Simple Login - Mobile Auth UI",
@@ -24,7 +25,8 @@
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/simpleLogin.webp",
     "projectPreview": "https://www.figma.com/proto/5yNC1rmK6Offpc0JuYuTKx/Simple-Login---Mobile-Auth-UI-Kit-%E2%9C%A8?node-id=2211-720&p=f&t=mCrtAnaWENo2Acb5-8&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2212%3A41&hide-ui=1",
     "projectSource": "https://www.figma.com/community/file/1300432160609727073/simple-login-mobile-auth-ui-kit",
-    "projectIcon": "hgi hgi-stroke hgi-figma"
+    "projectIcon": "hgi hgi-stroke hgi-figma",
+    "projectDescription": "A mobile authentication interface focused on making the sign-in experience feel simple and approachable. The UI kit explores clear form hierarchy, readable inputs, and a streamlined path into an app."
   },
   {
     "projectTitle": "Friendly Login - Sign In UI Kit",
@@ -38,7 +40,8 @@
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/friendlyLogin.webp",
     "projectPreview": "https://www.figma.com/proto/Ra1iD77x9UvdznMDoJ7Slp/Friendly-Login---Onboarding-and-Sign-In-UI-Kit-%E2%9C%A8?node-id=2107-152&p=f&t=0VuJmFYY89Svx6nZ-8&scaling=scale-down&content-scaling=fixed&page-id=2070%3A1840&starting-point-node-id=2115%3A163&hide-ui=1",
     "projectSource": "https://www.figma.com/community/file/1519671931953441943/friendly-login-onboarding-and-sign-in-ui-kit",
-    "projectIcon": "hgi hgi-stroke hgi-figma"
+    "projectIcon": "hgi hgi-stroke hgi-figma",
+    "projectDescription": "A welcoming sign-in and onboarding UI kit designed to make the first interaction with a product feel effortless. It brings together friendly visual styling, clear form layouts, and a consistent authentication flow."
   },
   {
     "projectTitle": "Chips Landing Page",
@@ -51,7 +54,8 @@
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/chipsLandingPage.png",
     "projectPreview": "https://www.figma.com/community/file/1370750451611842711/chips-landing-page",
     "projectSource": "https://www.figma.com/community/file/1370750451611842711/chips-landing-page",
-    "projectIcon": "hgi hgi-stroke hgi-figma"
+    "projectIcon": "hgi hgi-stroke hgi-figma",
+    "projectDescription": "A landing page concept for a chips brand, built around presenting the product with strong visuals and clear messaging. The layout explores how bold imagery and focused sections can create an engaging product-first experience."
   },
   {
     "projectTitle": "Clean Login Page",
@@ -64,7 +68,8 @@
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/cleanLogin.png",
     "projectPreview": "https://www.figma.com/community/file/1304705151624261298/clean-login-design",
     "projectSource": "https://www.figma.com/community/file/1304705151624261298/clean-login-design",
-    "projectIcon": "hgi hgi-stroke hgi-figma"
+    "projectIcon": "hgi hgi-stroke hgi-figma",
+    "projectDescription": "A clean login page concept that keeps attention on the essential task of signing in. Minimal visual elements and a straightforward form layout help create a calm, easy-to-follow experience."
   },
   {
     "projectTitle": "Minimal Login Page",
@@ -77,7 +82,8 @@
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/minimalLoginPage.png",
     "projectPreview": "https://www.figma.com/community/file/1369975238903877112/minimal-login-page",
     "projectSource": "https://www.figma.com/community/file/1369975238903877112/minimal-login-page",
-    "projectIcon": "hgi hgi-stroke hgi-figma"
+    "projectIcon": "hgi hgi-stroke hgi-figma",
+    "projectDescription": "A minimal authentication screen designed to reduce distractions and make signing in feel effortless. The interface uses restrained styling and clear spacing to keep the form as the main focus."
   },
   {
     "projectTitle": "Professional Login",
@@ -90,7 +96,8 @@
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/professionalLogin.png",
     "projectPreview": "https://www.figma.com/community/file/1363047801969002728/professional-login-page",
     "projectSource": "https://www.figma.com/community/file/1363047801969002728/professional-login-page",
-    "projectIcon": "hgi hgi-stroke hgi-figma"
+    "projectIcon": "hgi hgi-stroke hgi-figma",
+    "projectDescription": "A polished login page concept with a more formal, professional visual direction. It focuses on clear information hierarchy and a structured form that feels appropriate for a business-oriented product."
   },
   {
     "projectTitle": "Audio Player",
@@ -103,7 +110,8 @@
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/audioPlayer.png",
     "projectPreview": "https://www.figma.com/community/file/1381952049844287470/audio-player",
     "projectSource": "https://www.figma.com/community/file/1381952049844287470/audio-player",
-    "projectIcon": "hgi hgi-stroke hgi-figma"
+    "projectIcon": "hgi hgi-stroke hgi-figma",
+    "projectDescription": "A music player interface concept designed to make playback controls and track information easy to scan. The layout explores a focused listening experience through a simple visual hierarchy and accessible controls."
   },
   {
     "projectTitle": "Flash Message",
@@ -116,7 +124,8 @@
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/flashMessage.png",
     "projectPreview": "https://www.figma.com/community/file/1382711155675957779/flash-message",
     "projectSource": "https://www.figma.com/community/file/1382711155675957779/flash-message",
-    "projectIcon": "hgi hgi-stroke hgi-figma"
+    "projectIcon": "hgi hgi-stroke hgi-figma",
+    "projectDescription": "A compact notification component concept for communicating brief system feedback. It explores how status messages can be noticeable and understandable without interrupting the user's current task."
   },
   {
     "projectTitle": "News App",
@@ -129,7 +138,8 @@
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/newApp.png",
     "projectPreview": "https://www.figma.com/community/file/1382358562087405876/news-app",
     "projectSource": "https://www.figma.com/community/file/1382358562087405876/news-app",
-    "projectIcon": "hgi hgi-stroke hgi-figma"
+    "projectIcon": "hgi hgi-stroke hgi-figma",
+    "projectDescription": "A news application interface concept for browsing and reading current stories. The design focuses on organizing editorial content into a clear, readable experience that helps users discover articles."
   },
   {
     "projectTitle": "Minimal Todo",
@@ -142,7 +152,8 @@
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/minimalTodo.png",
     "projectPreview": "https://www.figma.com/community/file/1403067973491547837/minimal-to-do",
     "projectSource": "https://www.figma.com/community/file/1403067973491547837/minimal-to-do",
-    "projectIcon": "hgi hgi-stroke hgi-figma"
+    "projectIcon": "hgi hgi-stroke hgi-figma",
+    "projectDescription": "A minimal task-management interface for capturing and keeping track of everyday to-dos. Its simple layout is intended to make tasks easy to review while keeping the experience free of unnecessary clutter."
   },
   {
     "projectTitle": "Expense Tracker",
@@ -155,7 +166,8 @@
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/expenseTracker.png",
     "projectPreview": "https://www.figma.com/community/file/1371500161815273112/expense-tracker",
     "projectSource": "https://www.figma.com/community/file/1371500161815273112/expense-tracker",
-    "projectIcon": "hgi hgi-stroke hgi-figma"
+    "projectIcon": "hgi hgi-stroke hgi-figma",
+    "projectDescription": "An expense-tracking interface concept for reviewing personal spending in a clear, organized way. It explores how financial information can be presented with a straightforward layout that makes everyday money management easier to follow."
   },
   {
     "projectTitle": "Job Finder",
@@ -168,7 +180,8 @@
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/jobFinder.png",
     "projectPreview": "https://www.figma.com/community/file/1522522593587899021/job-finder",
     "projectSource": "https://www.figma.com/community/file/1522522593587899021/job-finder",
-    "projectIcon": "hgi hgi-stroke hgi-figma"
+    "projectIcon": "hgi hgi-stroke hgi-figma",
+    "projectDescription": "A job discovery interface concept that helps users explore opportunities and review relevant role information. The design emphasizes clear listing structure and an approachable browsing experience."
   },
   {
     "projectTitle": "Search Engine",
@@ -184,7 +197,8 @@
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/searchEngine.png",
     "projectPreview": "https://search-engine-ui.netlify.app/",
     "projectSource": "https://github.com/saad-shaikh-256/Search-Engine-Ui",
-    "projectIcon": "hgi hgi-stroke hgi-github"
+    "projectIcon": "hgi hgi-stroke hgi-github",
+    "projectDescription": "A lightweight search engine interface built to provide a focused way to enter queries and view results. The project combines a custom front end with a simple, direct interaction pattern."
   },
   {
     "projectTitle": "404 Page",
@@ -200,7 +214,8 @@
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/404Page.png",
     "projectPreview": "https://boo-404.vercel.app/",
     "projectSource": "https://github.com/saad-shaikh-256/404-Page",
-    "projectIcon": "hgi hgi-stroke hgi-github"
+    "projectIcon": "hgi hgi-stroke hgi-github",
+    "projectDescription": "A custom 404 error page designed to turn a dead end into a clearer next step. The interface gives the error state its own visual identity while helping visitors understand that the page they requested is unavailable."
   },
   {
     "projectTitle": "Calculator App",
@@ -213,7 +228,8 @@
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/calculatorApp.png",
     "projectPreview": "https://www.figma.com/community/file/1371040846150181225/calculator-app",
     "projectSource": "https://www.figma.com/community/file/1371040846150181225/calculator-app",
-    "projectIcon": "hgi hgi-stroke hgi-figma"
+    "projectIcon": "hgi hgi-stroke hgi-figma",
+    "projectDescription": "A calculator interface concept built around familiar controls and an easy-to-read result area. The design keeps the layout direct so users can focus on entering values and performing calculations."
   },
   {
     "projectTitle": "Weather App",
@@ -226,7 +242,8 @@
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/weatherApp.png",
     "projectPreview": "https://www.figma.com/community/file/1289964365602571637/weather-app",
     "projectSource": "https://www.figma.com/community/file/1289964365602571637/weather-app",
-    "projectIcon": "hgi hgi-stroke hgi-figma"
+    "projectIcon": "hgi hgi-stroke hgi-figma",
+    "projectDescription": "A weather application interface concept for presenting conditions and forecast information at a glance. The design explores a clear visual hierarchy to make everyday weather details easy to scan."
   },
   {
     "projectTitle": "Checkout Page",
@@ -239,7 +256,8 @@
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/checkoutPage.png",
     "projectPreview": "https://www.figma.com/community/file/1370411272796054360/checkout-page",
     "projectSource": "https://www.figma.com/community/file/1370411272796054360/checkout-page",
-    "projectIcon": "hgi hgi-stroke hgi-figma"
+    "projectIcon": "hgi hgi-stroke hgi-figma",
+    "projectDescription": "A checkout page concept focused on making the final stage of an online purchase feel clear and organized. It brings key order and payment information into a structured layout to support a smoother checkout experience."
   },
   {
     "projectTitle": "Login Page",
@@ -252,7 +270,8 @@
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/loginPage.png",
     "projectPreview": "https://www.figma.com/community/file/1285910043984717156/login-page",
     "projectSource": "https://www.figma.com/community/file/1285910043984717156/login-page",
-    "projectIcon": "hgi hgi-stroke hgi-figma"
+    "projectIcon": "hgi hgi-stroke hgi-figma",
+    "projectDescription": "A straightforward login page concept centered on the essential sign-in interaction. The design uses a clear form structure and restrained styling to keep the process familiar and easy to understand."
   },
   {
     "projectTitle": "eCom App",
@@ -267,7 +286,8 @@
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/ecomApp.png",
     "projectPreview": "https://ecom-web-app-404.vercel.app/",
     "projectSource": "https://github.com/saad-shaikh-256/eCom-Web-App",
-    "projectIcon": "hgi hgi-stroke hgi-github"
+    "projectIcon": "hgi hgi-stroke hgi-github",
+    "projectDescription": "An e-commerce web app concept that brings product discovery and shopping interactions into one interface. The project combines interface design with front-end development to create a cohesive browsing experience."
   },
   {
     "projectTitle": "Qadam Shoes Ecom",
@@ -297,7 +317,8 @@
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/furnitureEcom.png",
     "projectPreview": "https://www.figma.com/community/file/1289617240029426611/furniture-ecom",
     "projectSource": "https://www.figma.com/community/file/1289617240029426611/furniture-ecom",
-    "projectIcon": "hgi hgi-stroke hgi-figma"
+    "projectIcon": "hgi hgi-stroke hgi-figma",
+    "projectDescription": "A furniture e-commerce design concept for presenting home products in a clean, considered storefront. The layout focuses on product imagery and clear shopping structure to help customers explore pieces with ease."
   },
   {
     "projectTitle": "Fashion Lookbook App",
@@ -310,7 +331,8 @@
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/fashionLookbook.png",
     "projectPreview": "https://www.figma.com/community/file/1315214329127332255/fashion-lookbook-app",
     "projectSource": "https://www.figma.com/community/file/1315214329127332255/fashion-lookbook-app",
-    "projectIcon": "hgi hgi-stroke hgi-figma"
+    "projectIcon": "hgi hgi-stroke hgi-figma",
+    "projectDescription": "A fashion lookbook app concept for browsing curated styles and outfit inspiration. The visual direction gives imagery room to lead while keeping the browsing experience organized and intuitive."
   },
   {
     "projectTitle": "Chat Screen",
@@ -323,7 +345,8 @@
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/chatScreen.png",
     "projectPreview": "https://www.figma.com/community/file/1356814872628202084/chat-screen-design",
     "projectSource": "https://www.figma.com/community/file/1356814872628202084/chat-screen-design",
-    "projectIcon": "hgi hgi-stroke hgi-figma"
+    "projectIcon": "hgi hgi-stroke hgi-figma",
+    "projectDescription": "A messaging screen concept designed to make conversations feel clear and easy to follow. It explores message hierarchy, spacing, and familiar chat elements for a focused communication experience."
   },
   {
     "projectTitle": "Smart Bulb",
@@ -336,7 +359,8 @@
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/smartBulb.png",
     "projectPreview": "https://dribbble.com/shots/26246452-Smart-Bulb",
     "projectSource": "https://dribbble.com/shots/26246452-Smart-Bulb",
-    "projectIcon": "hgi hgi-stroke hgi-dribbble"
+    "projectIcon": "hgi hgi-stroke hgi-dribbble",
+    "projectDescription": "A smart bulb control interface concept for interacting with connected lighting. The design explores a simple way to present lighting controls and device information in a modern smart-home experience."
   },
   {
     "projectTitle": "IOT Smart App",
@@ -349,7 +373,8 @@
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/iotSmartApp.png",
     "projectPreview": "https://dribbble.com/shots/26246551-IOT-Smart-App",
     "projectSource": "https://dribbble.com/shots/26246551-IOT-Smart-App",
-    "projectIcon": "hgi hgi-stroke hgi-dribbble"
+    "projectIcon": "hgi hgi-stroke hgi-dribbble",
+    "projectDescription": "A smart-home mobile app concept for monitoring and controlling connected IoT devices. The interface focuses on making device interactions and key information accessible from a single place."
   },
   {
     "projectTitle": "Smart Ring App",
@@ -362,7 +387,8 @@
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/smartRing.png",
     "projectPreview": "https://dribbble.com/shots/26246512-Smart-Ring-App",
     "projectSource": "https://dribbble.com/shots/26246512-Smart-Ring-App",
-    "projectIcon": "hgi hgi-stroke hgi-dribbble"
+    "projectIcon": "hgi hgi-stroke hgi-dribbble",
+    "projectDescription": "A companion app concept for a connected smart ring, presenting device-related information in a mobile interface. The design explores a clean way to bring wearable technology interactions into everyday use."
   },
   {
     "projectTitle": "IOT Smart Dashboard",
@@ -375,7 +401,8 @@
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/iotSmartDashboard.png",
     "projectPreview": "https://dribbble.com/shots/26246594-IOT-Smart-Dashboard",
     "projectSource": "https://dribbble.com/shots/26246594-IOT-Smart-Dashboard",
-    "projectIcon": "hgi hgi-stroke hgi-dribbble"
+    "projectIcon": "hgi hgi-stroke hgi-dribbble",
+    "projectDescription": "A dashboard concept for overseeing connected IoT devices and their status. It organizes device information into a central interface intended to make monitoring and control easier to understand."
   },
   {
     "projectTitle": "DentyTech UI",
@@ -390,7 +417,8 @@
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/dentyTechUI.png",
     "projectPreview": "https://dentytech-ui.vercel.app/",
     "projectSource": "https://github.com/saad-shaikh-256/DentyTech-Ui",
-    "projectIcon": "hgi hgi-stroke hgi-github"
+    "projectIcon": "hgi hgi-stroke hgi-github",
+    "projectDescription": "A front-end interface project for a dental technology-themed digital product. Built with HTML, CSS, and GSAP, it explores a polished web experience with motion used to support the presentation."
   },
   {
     "projectTitle": "Weighbridge Landing Page",
@@ -403,7 +431,8 @@
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/weighbridgeLandingPage.png",
     "projectPreview": "https://dribbble.com/shots/26236513-Weigh-Bridge-Landing-Page",
     "projectSource": "https://dribbble.com/shots/26236513-Weigh-Bridge-Landing-Page",
-    "projectIcon": "hgi hgi-stroke hgi-dribbble"
+    "projectIcon": "hgi hgi-stroke hgi-dribbble",
+    "projectDescription": "A landing page concept for a weighbridge-related business or service. Its structure is designed to introduce the offering clearly and guide visitors through the key information."
   },
   {
     "projectTitle": "Bike Landing Page",
@@ -416,7 +445,8 @@
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/bikeLandingPage.png",
     "projectPreview": "https://dribbble.com/shots/24320188-Bike-Landing-Page",
     "projectSource": "https://dribbble.com/shots/24320188-Bike-Landing-Page",
-    "projectIcon": "hgi hgi-stroke hgi-dribbble"
+    "projectIcon": "hgi hgi-stroke hgi-dribbble",
+    "projectDescription": "A bike-focused landing page concept designed to showcase a product through strong visual presentation. The layout gives the subject prominence while organizing supporting information into a clear page flow."
   },
   {
     "projectTitle": "GYM Landing Page",
@@ -429,7 +459,8 @@
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/gymLandingPage.png",
     "projectPreview": "https://www.figma.com/community/file/1305447912630388195/gym-landing-page",
     "projectSource": "https://www.figma.com/community/file/1305447912630388195/gym-landing-page",
-    "projectIcon": "hgi hgi-stroke hgi-figma"
+    "projectIcon": "hgi hgi-stroke hgi-figma",
+    "projectDescription": "A landing page concept for a gym or fitness brand, designed to introduce its offering and encourage visitors to take the next step. The page structure focuses on clear messaging and a strong fitness-oriented visual direction."
   },
   {
     "projectTitle": "Hotel Landing Page",
@@ -442,7 +473,8 @@
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/hotelLandingPage.png",
     "projectPreview": "https://www.figma.com/community/file/1376189428140518191/hotel-landing-page",
     "projectSource": "https://www.figma.com/community/file/1376189428140518191/hotel-landing-page",
-    "projectIcon": "hgi hgi-stroke hgi-figma"
+    "projectIcon": "hgi hgi-stroke hgi-figma",
+    "projectDescription": "A hotel website landing page concept built to present the stay experience and its key offerings. The design uses an editorial, hospitality-focused layout to help visitors explore the property and its appeal."
   },
   {
     "projectTitle": "Stream Flix",
@@ -458,7 +490,8 @@
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/streamFlix.png",
     "projectPreview": "https://stream-flix-movies.vercel.app/",
     "projectSource": "https://github.com/saad-shaikh-256/Stream-Flix",
-    "projectIcon": "hgi hgi-stroke hgi-github"
+    "projectIcon": "hgi hgi-stroke hgi-github",
+    "projectDescription": "A movie discovery and streaming-style web interface built with React and Tailwind CSS. The project brings film browsing into a responsive interface with a visual approach inspired by modern entertainment platforms."
   },
   {
     "projectTitle": "Travel Landing Page",
@@ -474,7 +507,8 @@
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/travelLandingPage.png",
     "projectPreview": "https://travel-page-404.vercel.app/",
     "projectSource": "https://github.com/saad-shaikh-256/Travel-Landing-Page",
-    "projectIcon": "hgi hgi-stroke hgi-github"
+    "projectIcon": "hgi hgi-stroke hgi-github",
+    "projectDescription": "A travel-focused landing page built to present a destination or travel offering through an engaging web experience. The project combines interface design and front-end development to create a clear, visually led page."
   },
   {
     "projectTitle": "Shoes Landing Page",
@@ -487,7 +521,8 @@
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/shoesLandingPage.png",
     "projectPreview": "https://www.figma.com/community/file/1371788296332031928/shoes-landing-page",
     "projectSource": "https://www.figma.com/community/file/1371788296332031928/shoes-landing-page",
-    "projectIcon": "hgi hgi-stroke hgi-figma"
+    "projectIcon": "hgi hgi-stroke hgi-figma",
+    "projectDescription": "A footwear landing page concept designed to showcase a shoe product with a focused, product-led layout. The design gives attention to visual presentation and clear content hierarchy."
   },
   {
     "projectTitle": "Pokedex Api",
@@ -501,7 +536,8 @@
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/pokedexApi.png",
     "projectPreview": "https://saad-shaikh-256.github.io/Pokedex-API/",
     "projectSource": "https://github.com/saad-shaikh-256/Pokedex-API",
-    "projectIcon": "hgi hgi-stroke hgi-github"
+    "projectIcon": "hgi hgi-stroke hgi-github",
+    "projectDescription": "A Pokédex web project that presents Pokémon information through a browser-based interface. It uses JavaScript and Tailwind CSS to create a simple way to explore data sourced from a Pokémon API."
   },
   {
     "projectTitle": "Chat-App",
@@ -516,7 +552,8 @@
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/chatApp.png",
     "projectPreview": "https://saad-chatapp.webflow.io/",
     "projectSource": "https://saad-chatapp.webflow.io/",
-    "projectIcon": "hgi hgi-stroke hgi-webflow"
+    "projectIcon": "hgi hgi-stroke hgi-webflow",
+    "projectDescription": "A chat application concept created in Webflow, focused on presenting a clean interface for digital conversations. The project explores the layout and visual structure of a messaging experience."
   },
   {
     "projectTitle": "MakeURL - URL Shortener",
@@ -532,7 +569,8 @@
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/makeUrl.png",
     "projectPreview": "https://make-link.vercel.app/",
     "projectSource": "https://github.com/saad-shaikh-256/URL-Shortner",
-    "projectIcon": "hgi hgi-stroke hgi-github"
+    "projectIcon": "hgi hgi-stroke hgi-github",
+    "projectDescription": "A URL-shortening web app that turns long links into compact, shareable URLs. Built with React and the MERN stack, the project combines product interface design with full-stack development."
   },
   {
     "projectTitle": "Hue - Color Palette",
@@ -547,6 +585,7 @@
     "projectImage": "https://saad-shaikh-256.github.io/Portfolio-Projects-API/Images/hueColorPalette.png",
     "projectPreview": "https://www.figma.com/community/plugin/1653007904353272290/hue-color-palette",
     "projectSource": "https://www.figma.com/community/plugin/1653007904353272290/hue-color-palette",
-    "projectIcon": "hgi hgi-stroke hgi-figma"
+    "projectIcon": "hgi hgi-stroke hgi-figma",
+    "projectDescription": "A Figma plugin for generating smooth, perceptually balanced colour palettes using OKLab interpolation. It lets designers work from light and dark anchor colours, choose the number of colour stops, and export palettes in useful formats."
   }
 ]
